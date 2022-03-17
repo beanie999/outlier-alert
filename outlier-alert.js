@@ -1,5 +1,4 @@
 /**
- * Mike Bean 17 March 2020
  * Synthetic "Scripted API" script to recreate an outlier type of alert. This example looks for the response time in a cluster and fails when any host is suffering
  *   from response times greater than 2 standard deviations from the cluster average.
  * Instructions:
